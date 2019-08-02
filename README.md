@@ -1,2 +1,0 @@
-# bridestory
-Pemrograman WEB
